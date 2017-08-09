@@ -20,14 +20,14 @@ def descifrar():
     print("Mensaje descifrado: "+msgd)
 
 def abrir():
-    arch= open('num/num.txt','r')
+    arch= open('num.txt','r')
     linea= arch.readline()
     global e
     e= int(float(linea))
     arch.close()
 
 def hacer():
-    f=open('num/num.txt',"w")
+    f=open('num.txt',"w")
     f.write(num)
     f.close()
 
