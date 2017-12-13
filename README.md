@@ -9,7 +9,7 @@ Necesitas:
 --------------------
 
 Instrucciones:
-+ git clone https://github.com/RMSociety/Metra.git
++ git clone https://github.com/HiddenShot/Metra.git
 + cd Metra
 + python3 metra.py
 
