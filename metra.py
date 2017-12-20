@@ -39,7 +39,7 @@ def banner():
     _  /  / / /  __/ /_ _  /   / /_/ /     
     /_/  /_/  \___/\__/ /_/    \__,_/ 
     """'\033[1;94m')
-    mg= ("RMSociety")
+    mg= ("HiddenShot")
     long= len(mg) + 8
     print('\033[1;91m'"#"+ long * '-' + "#"'\033[1;91m')
     print("|"+ long*' '+"|")
